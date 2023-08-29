@@ -1,0 +1,14 @@
+/Users/renhaoluo/Desktop/Learning/C#/section04/bin/Debug/net7.0/section04
+/Users/renhaoluo/Desktop/Learning/C#/section04/bin/Debug/net7.0/section04.deps.json
+/Users/renhaoluo/Desktop/Learning/C#/section04/bin/Debug/net7.0/section04.runtimeconfig.json
+/Users/renhaoluo/Desktop/Learning/C#/section04/bin/Debug/net7.0/section04.dll
+/Users/renhaoluo/Desktop/Learning/C#/section04/bin/Debug/net7.0/section04.pdb
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.AssemblyInfoInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.AssemblyInfo.cs
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.csproj.CoreCompileInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.dll
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/refint/section04.dll
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.pdb
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/section04.genruntimeconfig.cache
+/Users/renhaoluo/Desktop/Learning/C#/section04/obj/Debug/net7.0/ref/section04.dll

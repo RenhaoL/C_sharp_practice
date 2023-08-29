@@ -1,0 +1,14 @@
+/Users/renhaoluo/Desktop/Learning/C#/section05/bin/Debug/net7.0/section05
+/Users/renhaoluo/Desktop/Learning/C#/section05/bin/Debug/net7.0/section05.deps.json
+/Users/renhaoluo/Desktop/Learning/C#/section05/bin/Debug/net7.0/section05.runtimeconfig.json
+/Users/renhaoluo/Desktop/Learning/C#/section05/bin/Debug/net7.0/section05.dll
+/Users/renhaoluo/Desktop/Learning/C#/section05/bin/Debug/net7.0/section05.pdb
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.AssemblyInfoInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.AssemblyInfo.cs
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.csproj.CoreCompileInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.dll
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/refint/section05.dll
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.pdb
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/section05.genruntimeconfig.cache
+/Users/renhaoluo/Desktop/Learning/C#/section05/obj/Debug/net7.0/ref/section05.dll

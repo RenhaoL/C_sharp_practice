@@ -1,0 +1,14 @@
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.AssemblyInfoInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.AssemblyInfo.cs
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.csproj.CoreCompileInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/bin/Debug/net7.0/Boolean
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/bin/Debug/net7.0/Boolean.deps.json
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/bin/Debug/net7.0/Boolean.runtimeconfig.json
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/bin/Debug/net7.0/Boolean.dll
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/bin/Debug/net7.0/Boolean.pdb
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.dll
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/refint/Boolean.dll
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.pdb
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/Boolean.genruntimeconfig.cache
+/Users/renhaoluo/Desktop/Learning/C#/section03/Boolean/obj/Debug/net7.0/ref/Boolean.dll

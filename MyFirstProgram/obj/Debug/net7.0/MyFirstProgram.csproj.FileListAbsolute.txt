@@ -1,0 +1,14 @@
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.deps.json
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.runtimeconfig.json
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.dll
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/bin/Debug/net7.0/MyFirstProgram.pdb
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.AssemblyInfo.cs
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.dll
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/refint/MyFirstProgram.dll
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.pdb
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/MyFirstProgram.genruntimeconfig.cache
+/Users/renhaoluo/Desktop/Learning/C#/MyFirstProgram/obj/Debug/net7.0/ref/MyFirstProgram.dll

@@ -1,0 +1,9 @@
+C# notes:
+
+Run the following command to initialize the session:
+
+dotnet new console
+
+-> go to the "Program.cs"
+
+dotnet run // load the current .cs file.
